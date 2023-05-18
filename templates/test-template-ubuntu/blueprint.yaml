@@ -1,5 +1,5 @@
 formatVersion: 1
-name: test-template-01
+name: test-template-ubuntu
 version: 1
 inputs:
   CustomizationSpec:
