@@ -1,5 +1,5 @@
 formatVersion: 1
-name: test-template
+name: test-template-01
 version: 1
 inputs:
   CustomizationSpec:
