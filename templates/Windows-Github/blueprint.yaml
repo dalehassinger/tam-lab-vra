@@ -1,6 +1,6 @@
 #Comment Line 9
 formatVersion: 1
-name: Windows-GitHub
+name: Windows-GitHub-01
 version: 9
 inputs:
   CustomizationSpec:
