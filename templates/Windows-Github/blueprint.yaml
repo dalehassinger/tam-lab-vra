@@ -1,6 +1,7 @@
+# Comment Line 1
 formatVersion: 1
 name: test-template-Windows
-version: 1
+version: 2
 inputs:
   CustomizationSpec:
     type: string
