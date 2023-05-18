@@ -1,7 +1,7 @@
-#Comment Line 7
+#Comment Line 9
 formatVersion: 1
 name: Windows-GitHub
-version: 7
+version: 9
 inputs:
   CustomizationSpec:
     type: string
