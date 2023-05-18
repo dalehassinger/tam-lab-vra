@@ -1,5 +1,5 @@
 formatVersion: 1
-name: test-template-ubuntu
+name: test-template-Windows
 version: 1
 inputs:
   CustomizationSpec:
